@@ -1,0 +1,78 @@
+{
+  "always_show_progress_bar": false,
+  "analyzer_activation": true,
+  "auto_generate": false,
+  "below_player_pip": false,
+  "below_player_screenshot": false,
+  "bluelight_removed": true,
+  "channel_trailer_autoplay": false,
+  "font": "Roboto",
+  "forced_theater_mode": true,
+  "ga": 1668513457860,
+  "hide_gradient_bottom": false,
+  "improvedtube_youtube_icon": "disabled",
+  "language": "en",
+  "mark_watched_videos": true,
+  "migrated": true,
+  "player_ads": "block_all",
+  "player_always_repeat": false,
+  "player_autoPip": false,
+  "player_crop_chapter_titles": true,
+  "player_force_speed_on_music": false,
+  "player_forced_playback_speed": true,
+  "player_forced_volume": false,
+  "player_hide_controls": false,
+  "player_playback_speed": 1.25,
+  "player_popup_button": false,
+  "player_quality": "hd1080",
+  "player_repeat_button": false,
+  "player_screenshot_button": false,
+  "player_subtitles": false,
+  "player_transparent_background": false,
+  "playlist_repeat": false,
+  "playlist_up_next_autoplay": true,
+  "rate_notify": 5,
+  "shortcut_1080p": {
+    "alt": false,
+    "ctrl": false,
+    "keys": { "81": { "key": "q" } },
+    "shift": false
+  },
+  "shortcut_480p": {
+    "alt": false,
+    "ctrl": false,
+    "keys": { "69": { "key": "e" } },
+    "shift": false
+  },
+  "shortcut_720p": {
+    "alt": false,
+    "ctrl": false,
+    "keys": { "87": { "key": "w" } },
+    "shift": false
+  },
+  "shortcut_decrease_playback_speed": {
+    "alt": false,
+    "ctrl": false,
+    "keys": { "109": { "key": "-" } },
+    "shift": false
+  },
+  "shortcut_increase_playback_speed": {
+    "alt": false,
+    "ctrl": false,
+    "keys": { "107": { "key": "+" } },
+    "shift": false
+  },
+  "shortcut_playback_speed_step": 0.25,
+  "shortcut_toggle_controls": {
+    "alt": false,
+    "ctrl": true,
+    "keys": { "77": { "key": "m" } },
+    "shift": false
+  },
+  "theme": "dark",
+  "theme_primary_color": [200, 200, 200],
+  "theme_text_color": [25, 25, 25],
+  "title_version": true,
+  "track_watched_videos": true,
+  "up_next_autoplay": false
+}
